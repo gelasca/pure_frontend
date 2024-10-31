@@ -1,0 +1,31 @@
+{
+  "name": "pure_frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelasca/pure_frontend.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "css",
+    "pure",
+    "'from",
+    "scratch'",
+    "HTML"
+  ],
+  "author": "gelasca.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelasca/pure_frontend/issues"
+  },
+  "homepage": "https://github.com/gelasca/pure_frontend#readme",
+  "description": "",
+  "dependencies": {
+    "pure_frontend": "file:"
+  }
+}
